@@ -1,0 +1,2173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>The Thirsty Mage RPG Podcast</title>
+    <description>Enjoy RPGs and having a pint? So do the folks at The Thirsty Mage Pub. Each podcast begins with a short discussion about a new and exciting drink and quickly transitions to a discussion about an RPG or related topic. We cover a wide range of subjects - Square Enix, ATLUS, JRPGs, or pretty much anything an RPG fan would enjoy.</description>
+    <link>http://www.TheThirstyMage.com</link>
+    <copyright>David Lloyd</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 9 May 2020 08:00:00 -0700</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2019 13:00:00 -0700</pubDate>
+    <managingEditor>david@thethirstymage.com (david@thethirstymage.com)</managingEditor>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>The Thirsty Mage with David Lloyd</itunes:subtitle>
+    <itunes:summary>Enjoy RPGs and having a pint? So do the folks at The Thirsty Mage Pub. Each podcast begins with a short discussion about a new and exciting drink and quickly transitions to a discussion about an RPG or related topic. We cover a wide range of subjects - Square Enix, ATLUS, JRPGs, or pretty much anything an RPG fan would enjoy. </itunes:summary>
+    <itunes:category text="Leisure">
+    <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:image href="http://www.nintendoworldreport.com/podcast/ThirstyMage/ThirstyMageLogo.jpg"/>
+    <itunes:keywords>RPG, rpg, nintendo, videogames, video games, Nintendo, PlayStation, PS4, XBOX, Switch, Square, Atlus, JRPG, WRPG</itunes:keywords>
+    <itunes:author>David Lloyd</itunes:author>
+    <itunes:owner>
+    <itunes:email>David@TheThirstyMage.com</itunes:email>
+    <itunes:name>The Thirsty Mage</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>clean</itunes:explicit>
+    <image>
+    <url>http://www.nintendoworldreport.com/podcast/ThirstyMage/ThirstyMageLogo.jpg</url>
+    <title>The Thirsty Mage</title>
+    <link>http://www.TheThirstyMage.com</link>
+    <width>144</width>
+    <height>144</height>
+    </image>
+    <description>Enjoy RPGs and having a pint? So do the folks at The Thirsty Mage Pub. Each podcast begins with a short discussion about a new and exciting drink and quickly transitions to a discussion about an RPG or related topic. We cover a wide range of subjects - Square Enix, ATLUS, JRPGs, or pretty much anything an RPG fan would enjoy.</description>
+    <itunes:subtitle>Enjoy RPGs and having a pint? So do the folks at The Thirsty Mage Pub. Each podcast begins with a short discussion about a new and exciting drink and quickly transitions to a discussion about an RPG or related topic. We cover a wide range of subjects - Square Enix, ATLUS, JRPGs, or pretty much anything an RPG fan would enjoy. </itunes:subtitle>
+    <atom:link href="http://www.nintendoworldreport.com/podcast/ThirstyMage/TheThirstyMage.xml" rel="self" type="application/rss+xml" />
+    <itunes:type>episodic</itunes:type>
+
+<item>
+<itunes:episode>65</itunes:episode>
+<title> Chillin’ in the Colas - StarTropics </title>
+<pubDate>Sun, 5 Jul 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;thirstymage65.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle> The Thirsty Mage and The Talk Nintendo Podcast get together again to play the unique original NES title, Star Tropics. </itunes:subtitle>
+<description> The Thirsty Mage and The Talk Nintendo Podcast get together again to play the unique original NES title, Star Tropics.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Podcast Host - Casey Gibson
+Talk Nintendo Podcast Host - Perry Burkum
+
+Beer of the Night - La Malcommode - La Voie Maltee - Hefeweizen - 4.6%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage65.mp3" length="70314482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage and The Talk Nintendo Podcast get together again to play the unique original NES title, Star Tropics.  </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:12:36</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> rpg,nintendo,video,games,PlayStation,switch, microsoft, xbox, rpgs, Star Tropics </itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/thirstymage65-mp3-image.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<itunes:episode>64</itunes:episode>
+<title> A Zemurian History Lesson - Trails Of Cold Steel III </title>
+<pubDate>Sun, 27 Jun 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage64.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle> The pub chats about the events leading up to the story in the first Legend of Heroes title to release on a Nintendo device: Trails of Cold Steel III </itunes:subtitle>
+<description> The pub chats about the events leading up to the story in the first Legend of Heroes title to release on a Nintendo device: Trails of Cold Steel III
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+Beer of the Night - Big Ben Porter - Brasseurs Du Monde - 5.5%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage64.mp3" length="95314482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub chats about the events leading up to the story in the first Legend of Heroes title to release on a Nintendo device: Trails of Cold Steel III </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:38:57</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> rpg,nintendo,video,games,PlayStation,switch,Trails of Cold Steel 3,thirsty,mage, microsoft, xbox, rpgs, Trails of Cold Steel, final fantasy vi, final fantasy 6, Final Fantasy </itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/725132fb-7b95-4777-b14c-cb9e2d56eeff.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>63</itunes:episode>
+<title>Xenoblade Chronicles - The Heropon We Need Right Now</title>
+<pubDate>Sun, 20 Jun 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage63.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle> With the release of Xenoblade Chronicles DE on Nintendo Switch, it only makes sense to go back to the series that began this podcast. </itunes:subtitle>
+<description> With the release of Xenoblade Chronicles DE on Nintendo Switch, it only makes sense to go back to the series that began this podcast.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Host - Casey Gibson
+
+Beer of the Night - Caramel Stout - Oshlag - 6%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage63.mp3" length="75814482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+With the release of Xenoblade Chronicles DE on Nintendo Switch, it only makes sense to go back to the series that began this podcast. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:18:28</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy vi, final fantasy 6, Final Fantasy, Monster Hunter, Fallout, Diablo, Skyrim, Bastion </itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage63-mp3-image.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>62</itunes:episode>
+<title>Everything is Better Narrated: Bastion</title>
+<pubDate>Sun, 13 Jun 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage62.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle> Another new Mage patron from the commonwealth helps us solve SuperGiant Games first title: Bastion. </itunes:subtitle>
+<description> Another new Mage patron from the commonwealth helps us solve SuperGiant Games first title: Bastion.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+The Switch Island Host - Ben Congalton
+
+Beer of the Night - West Coast Lager - Le Castor - 6%
+
+Follow Ben:
+Twitter: @benjicong 
+The Switch Island - http://twitch.tv/theswitchisland
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage62.mp3" length="83514482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Another new Mage patron from the commonwealth helps us solve SuperGiant Games first title: Bastion. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:26:34</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy vi, final fantasy 6, Final Fantasy, Monster Hunter, Fallout, Diablo, Skyrim, Bastion </itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage62-mp3-image.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>61</itunes:episode>
+<title>Inventory Systems and Unique Items</title>
+<pubDate>Sun, 6 Jun 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage61.mp3</guid>
+<link>https://thethirstymage.com/2020/06/07/episode-61-items-inventories/ </link>     
+<itunes:subtitle> This week in the pub, a new patron joins a discussion about some of the different styles of inventory systems in RPGs and our favourite items from those series. </itunes:subtitle>
+<description> This week in the pub, a new patron joins a discussion about some of the different styles of inventory systems in RPGs and our favourite items from those series. Last Call wraps up the episode with a look at some titles who could have benefited from a different inventory strategy.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+LadiesGamers.com Reviewer - Paige Detlefsen
+
+Beer of the Night
+- Blanche De Chelsea - Gainsbourg - White IPA
+
+Follow Paige on:
+Twitter: @PaigeGGuy 
+YouTube: https://www.youtube.com/channel/UCTMxpDDy3x6wlNz_3Apn0Yg
+
+Instagram: @TheThirstyMage
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage61.mp3" length="108414482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+This week in the pub, a new patron joins a discussion about some of the different styles of inventory systems in RPGs and our favourite items from those series. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:15:03</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy vi, final fantasy 6, Final Fantasy, Monster Hunter, Fallout, Diablo, Skyrim </itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage61-mp3-image.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>60</itunes:episode>
+<title> Arguably the Greatest RPG of All-Time: Final Fantasy VI</title>
+<pubDate>Sun, 31 May 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage60.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle> Our latest retro replay takes us to one of the greatest RPGs ever made, Final Fantasy VI. The retro crew discusses what makes this title ageless and we share our favourite moments. </itunes:subtitle>
+<description> Our latest retro replay takes us to one of the greatest RPGs ever made, Final Fantasy VI. The retro crew discusses what makes this title ageless and we share our favourite moments.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+RFN Co-Host - Guillaume Veillette
+
+Beer of the Night
+- Wag the Wolf - Beaus - White IPA
+
+Terra Theme by - Extra Lives Music - https://youtu.be/yuyTd6I2ZyQ
+
+Instagram: @TheThirstyMage
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage60.mp3" length="141614482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Our latest retro replay takes us to one of the greatest RPGs ever made, Final Fantasy VI. The retro crew discusses what makes this title ageless and we share our favourite moments. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:37:54</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy vi, final fantasy 6, Final Fantasy </itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage60-mp3-image.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>59</itunes:episode>
+<title> Choose Your Starter RPG: Pokémon Blue/Red/Yellow </title>
+<pubDate>Sun, 24 May 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage59.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle> The Thirsty Mage and the Talk Nintendo Podcast get together to play the original Pokémon for the Nintendo Game Boy. The crew discusses how it's the perfect game to get kids introduced to the RPG genre. </itunes:subtitle>
+<description> The Thirsty Mage and the Talk Nintendo Podcast get together to play the original Pokémon for the Nintendo Game Boy. The crew discusses how it's the perfect game to get kids introduced to the RPG genre.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Podcast Host - Casey Gibson
+Talk Nintendo Podcast Host - Perry Burkum
+
+Beer of the Night
+- Darling - Triple Belgium - Gainsbourg - 8%
+
+Pokemon Theme by - Extra Lives Music - https://www.youtube.com/channel/UC6ADtDXFdMbcCzcwDhw5H_A
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/05/thirstymage59.mp3" length="81314482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage and the Talk Nintendo Podcast get together to play the original Pokémon for the Nintendo Game Boy. The crew discusses how it's the perfect game to get kids introduced to the RPG genre. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:24:20</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, pokemon</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/f728369a-d509-4b6f-a752-1ea71e1d402d.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>58</itunes:episode>
+<title>Worth A Buy? - Trials of Mana Remake</title>
+<pubDate>Sun, 17 May 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage58.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The patrons of The Thirsty Mage discuss whether it’s worth picking up the other Square Enix remake released in April: Trials of Mana</itunes:subtitle>
+<description> The patrons of The Thirsty Mage discuss whether it’s worth picking up the other Square Enix remake released in April: Trials of Mana
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Beer of the Night
+- Orange Tie Wrap - Gainsbourg - IPA - 7.5%
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage58.mp3" length="110314482" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The patrons of The Thirsty Mage discuss whether it’s worth picking up the other Square Enix remake released in April: Trials of Mana.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:30:45</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, trials of mana remake, trials of mana</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/c5c78f8f-7657-4978-951c-d08be4a8b2da.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>57</itunes:episode>
+<title>Final Fantasy VII Remake - Part 2: SpoilerCast</title>
+<pubDate>Sat, 9 May 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage57.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The folks at the pub experience a wide gambit of emotions discussing the story and ending of Final Fantasy VII Remake.</itunes:subtitle>
+<description>The folks at the pub experience a wide gambit of emotions discussing the story and ending of Final Fantasy VII Remake.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Beer of the Night
+- Clyde - Gainsbourg - American Brown Ale - 6%
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage57.mp3" length="104931585" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The folks at the pub experience a wide gambit of emotions discussing the story and ending of Final Fantasy VII Remake.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:49:17</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, final fantasy VII remake</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode57.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>56</itunes:episode>
+<title>Final Fantasy VII Remake - Part 1: Spoiler-Free</title>
+<pubDate>Sun, 3 May 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage56.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The pub keeps the spoiler-talk to an absolute minimum as they discuss the graphics and combat mechanics of Final Fantasy VII Remake.</itunes:subtitle>
+<description>The pub keeps the spoiler-talk to an absolute minimum as they discuss the graphics and combat mechanics of Final Fantasy VII Remake.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+Beer of the Night
+- 90 Schilling - Gainsbourg - - Scotch Ale - 8.5%
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage56.mp3" length="74578273" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub keeps the spoiler-talk to an absolute minimum as they discuss the graphics and combat mechanics of Final Fantasy VII Remake.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:17:40</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, final fantasy VII</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode56.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>55</itunes:episode>
+<title>Mario Golf on the Game Boy Colour</title>
+<pubDate>Sun, 26 apr 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage55.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The current pandemic situation may still have us stuck indoors but that doesn't mean we still can't play Golf. </itunes:subtitle>
+<description>The current pandemic situation may still have us stuck indoors but that doesn't mean we still can't play Golf.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Beer of the Night
+- Grand-Cru - Rodenbach - 6%
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage55.mp3" length="71584053" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The current pandemic situation may still have us stuck indoors but that doesn't mean we still can't play Golf.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:14:33</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, Mario Golf</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode55.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>54</itunes:episode>
+<title>RPGs That Couldn't Hold Our Attention</title>
+<pubDate>Sun, 19 apr 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage48.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The Thirsty Mage has been able to keep the topics positive for two years, this episode though is reserved for the airing of grievances. </itunes:subtitle>
+<description>The Thirsty Mage has been able to keep the topics positive for two years, this episode though is reserved for the airing of grievances.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Podcast Host - Casey Gibson
+NWR Owner - Neal Ronaghan
+
+Beer of the Night
+- Ur-Bock - Vrooden Signature - 9.5% - 45 IBU - 20 SRM 
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage48.mp3" length="96957053" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage has been able to keep the topics positive for two years, this episode though is reserved for the airing of grievances.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:40:59</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, Bravely Default, Gargoyle's Quest</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode54.jpg" />
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>53</itunes:episode>
+<title>An Easter Holiday with Gargoyle's Quest</title>
+<pubDate>Sun, 12 apr 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage47.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The Thirsty Mage and the Talk Nintendo Podcast get together to play Gargoyle’s Quest, the wonderful Capcom Game Boy title from 1990. Find out whether it still holds up today and who thought it’s the best thing to come from the Ghosts and Goblins franchise.</itunes:subtitle>
+<description>The Thirsty Mage and the Talk Nintendo Podcast get together to play Gargoyle’s Quest, the wonderful Capcom Game Boy title from 1990. Find out whether it still holds up today and who thought it’s the best thing to come from the Ghosts and Goblins franchise.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Podcast Host - Casey Gibson
+Talk Nintendo Podcast Host - Perry Burkum
+
+Beer of the Night
+- A Table - Brasseurs Du Monde - Strong Amber Ale - 7%  
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage53.mp3" length="95517356" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage and the Talk Nintendo Podcast get together to play Gargoyle’s Quest, the wonderful Capcom Game Boy title from 1990.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:06:19</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, Bravely Default, Gargoyle's Quest</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode53.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>52</itunes:episode>
+<title>Demos As Far As the Eye Can See</title>
+<pubDate>Sat, 04 apr 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage46.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The pub just couldn't ignore the demos for two big Switch releases this year: Bravely Default 2 and Trails of Cold Steel 3.</itunes:subtitle>
+<description>The pub just couldn't ignore the demos for two big Switch releases this year: Bravely Default 2 and Trails of Cold Steel 3.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Podcast Host - Casey Gibson
+
+Beer of the Night
+- La Resolution - Unibroue - Brownish-Black Ale - 10%  
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage52.mp3" length="68352511" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub just couldn't ignore the demos for two big Switch releases this year: Bravely Default 2 and Trails of Cold Steel 3.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:11:11</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, Bravely Default, Trails of Cold Steel</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode52.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>51</itunes:episode>
+<title>Bravely Default and Utilizing the 3DS Perfectly</title>
+<pubDate>Sun, 29 mar 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage45.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>Just in time for the new demo, the panel discusses the Bravely Default series and its strange naming convention.</itunes:subtitle>
+<description>Just in time for the new demo, the panel discusses the Bravely Default series and its strange naming convention.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Radio Free Nintendo Host - James Jones
+
+Beer of the Night
+- L'Assoiffe - Brasseurs Du Monde - 9.2% alcohol 
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage51.mp3" length="116930720" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Just in time for the new demo, the panel discusses the Bravely Default series and its strange naming convention.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">02:01:48</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, Bravely Default</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode51.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>50</itunes:episode>
+<title>RPG Preview and Metacritic Predictions - 2020</title>
+<pubDate>Sun, 22 mar 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage44.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/</link>     
+<itunes:subtitle>We celebrate our milestone episode with a look at some of the biggest RPGs coming to consoles this 2020.</itunes:subtitle>
+<description>We celebrate our milestone episode with a look at some of the biggest RPGs coming to consoles this 2020.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Podcast Host - Casey Gibson
+
+Beer of the Night
+- Charles Henri - Les 2 Freres - Amber Ale - 6.2% alcohol 
+
+Twitter: @TheThirstyMage
+Instagram: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage50.mp3" length="80750000" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+We celebrate our milestone episode with a look at some of the biggest RPGs coming to consoles this 2020.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:28:12</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trials of mana, final fantasy 7 remake, persona 5 royal</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode50.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>49</itunes:episode>
+<title>One of the Best RPGs You've Never Played: Trails in the Sky</title>
+<pubDate>Sun, 15 mar 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage43.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The sixth game in the Legend of Heroes series is a hidden gem that will delight all who discover it.</itunes:subtitle>
+<description>The sixth game in the Legend of Heroes series is a hidden gem that will delight all who discover it.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+Radio Free Nintendo Co-Host - Guillaume Veillette
+
+Beer of the Night
+- L'Ambigue - La Voie Maltee - English Bitter - 4.5% alcohol - 25 IBU - 14 SRM 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage49.mp3" length="89704325" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The sixth game in the Legend of Heroes series is a hidden gem that will delight all who discover it.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:33:26</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Trails in the SKy, Legend of Heroes</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode49.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>48</itunes:episode>
+<title>Paper Mario and Slamming The Thousand Year Door on RPGs</title>
+<pubDate>Sun, 08 mar 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage42.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The crossover podcast between The Thirsty Mage and The Talk Nintendo Podcast that explores Paper Mario: TTYD.</itunes:subtitle>
+<description>The crossover podcast between The Thirsty Mage and The Talk Nintendo Podcast that explores Paper Mario: TTYD.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+TNP Co-Host - Casey Gibson
+TNP Co-Host - Perry Burkum
+
+Beer of the Night
+- The Original - Innis and Gunn - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage48.mp3" length="122211456" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The crossover podcast between The Thirsty Mage and The Talk Nintendo Podcast that explores Paper Mario: TTYD.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:37:28</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs, Paper Mario, Thousand Year Door</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode48.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>47</itunes:episode>
+<title>Yakuza 0 and the Wonder of a Simulated Slice of Japan</title>
+<pubDate>Sat, 29 feb 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage41.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>David and Jordan dive into the the Yakuza series, starting with Yakuza 0.</itunes:subtitle>
+<description>David and Jordan dive into the the Yakuza series, starting with Yakuza 0.
+
+(Disclaimer: Japanese names are mispronounced often in this episode, and for that we apologize)
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+
+Beer of the Night
+- Hop-Man - Overhop Brewing Co. - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage47.mp3" length="90929000" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+David and Jordan dive into the the Yakuza series, starting with Yakuza 0.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:11:02</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode47.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>46</itunes:episode>
+<title>Who Has the Better Worlds to Explore: West Vs. East</title>
+<pubDate>Sun, 23 feb 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage40.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>David and Jordan debate which side of the planet develops the most interesting worlds to explore.</itunes:subtitle>
+<description>David and Jordan debate which side of the planet develops the most interesting worlds to explore.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+
+Beer of the Night
+- Amber Ale - Microbrasserie Le Prospecteur - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage46.mp3" length="106784000" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+David and Jordan debate which side of the planet develops the most interesting worlds to explore.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:30:07</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, microsoft, xbox, rpgs</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode46.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>45</itunes:episode>
+<title>Transistor and The Alchemists of Dusk</title>
+<pubDate>Sun, 16 feb 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage39.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>David and Jordan talk about Transistor, a wonderful action-RPG from SuperGiant Games and finish with an overview of the Atelier Trilogy on Switch.</itunes:subtitle>
+<description>David and Jordan talk about Transistor, a wonderful action-RPG from SuperGiant Games and finish with an overview of the Atelier Trilogy on Switch.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+
+Beer of the Night
+- Ping Pong IPA - Microbrasserie Pixel - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage45.mp3" length="105534000" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+David and Jordan talk about Transistor, a wonderful action-RPG from SuperGiant Games and finish with an overview of the Atelier Trilogy on Switch.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:25:17</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage, transistor, Atelier</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode45.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>44</itunes:episode>
+<title>Possible Game of the Decade: Nier Automata</title>
+<pubDate>Sun, 9 feb 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage38.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The pub discusses why Nier: Automata should be in the Game of Decade conversation.</itunes:subtitle>
+<description>When you think game of the decade usually titles like Breath of the Wild and Persona 5 come to mind. On this episode of The Thirsty Mage, Jordan and David discuss why Nier: Automata should be in that conversation.
+
+On the panel:
+
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+
+Beer of the Night
+- Save Peach - Microbrasserie Pixel - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage44.mp3" length="102465264" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub discusses why Nier: Automata should be in the Game of Decade conversation.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:23:14</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, yoko shimomura, Nier: Automata</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode44.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>43</itunes:episode>
+<title> Battle Mechanics in Turn-Based RPGs </title>
+<pubDate> Sun, 26 jan 2020 08:00:00 -0700 </pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage37.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>For those looking for a little variety in their turn-based RPGs.</itunes:subtitle>
+<description>Jordan and David highlight a variety of different combat systems found in many JRPGs and finish the discussion with a ranking of their favourites. 
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+
+Beer of the Night
+- Cerise - Le Castor Brewery - 6.8%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage43.mp3" length="83209656" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+For those looking for a little variety in their turn-based RPGs. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 01:32:18 </itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, yoko shimomura, Final Fantasy V</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+ <itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode43.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>42</itunes:episode>
+<title>Retro Replay - Final Fantasy V</title>
+<pubDate>Sun, 19 jan 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage36.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>A Final Fantasy title from the SNES era, this is our happy place.</itunes:subtitle>
+<description>The retro team over at The Thirsty Mage travelled to our happy place: An RPG from the SNES era. And not just any RPG, a Final Fantasy title that many probably haven’t had the chance to play. The fellows at the pub finished Final Fantasy V for the first time and provide their insight into the often overlooked classic.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+RFN Co-Host - Guillaume Veillette
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage42.mp3" length="92288136" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+A Final Fantasy title from the SNES era, this is our happy place.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:47:08</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, yoko shimomura, Final Fantasy V</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+ <itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode42.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>41</itunes:episode>
+<title>All Time Greats: Yoko Shimomura</title>
+<pubDate>Sun, 12 jan 2020 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage35.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>We pay our respects to one of the best composers in the video game industry.</itunes:subtitle>
+<description>We pay our respects to one of the best composers in the video game industry.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Host - Perry Burkum
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage41.mp3" length="78739320" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+We pay our respects to one of the best composers in the video game industry.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">02:15:37</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, yoko shimomura, shimomura</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode41.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>40</itunes:episode>
+<title>A Look Back 10 Years, And Then Ahead</title>
+<pubDate>Sun, 22 Dec 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage34.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The pub takes a look back at the last 10 years in RPGs, and then ahead to what we hope the future will bring.</itunes:subtitle>
+<description>The pub takes a look back at the last 10 years in RPGs, and then ahead to what we hope the future will bring.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+RFN Host - James Jones
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage40.mp3" length="98894136" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub takes a look back at the last 10 years in RPGs, and then ahead to what we hope the future will bring.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">02:15:37</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, Pokemon, sword, shield</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode40.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>39</itunes:episode>
+<title>Thirsty Mage Reviews - Pokémon Sword/Shield</title>
+<pubDate>Sun, 15 Dec 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage33.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>Whether you’ve already purchased one of Sword or Shield, or maybe you’re on the fence, or have no intention of buying, you’ll likely enjoy at least part of this spoiler free review of the first mainline Pokémon on a console.</itunes:subtitle>
+<description>Whether you’ve already purchased one of Sword or Shield, or maybe you’re on the fence, or have no intention of buying, you’ll likely enjoy at least part of this spoiler free review of the first mainline Pokémon on a console.
+
+Games Discussed:
+- Pokémon Sword/Shield -  
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Associate Editor - Matt Zawodniak
+
+Beer of the Night
+- Mons Scotch Ale - 10.5%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage39.mp3" length="73439696" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Whether you’ve already purchased one of Sword or Shield, or maybe you’re on the fence, or have no intention of buying, you’ll likely enjoy at least part of this spoiler free review of the first mainline Pokémon on a console.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:43:28</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, Pokemon, sword, shield</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode39.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>38</itunes:episode>
+<title>Say It Ain't So Mr. Sakaguchi - The Last Story</title>
+<pubDate>Sun, 8 Dec 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage32.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>It all started with Hironobu Sakaguchi, and we discuss what possibly is his last game that can be played on a console.</itunes:subtitle>
+<description>It all started with Hironobu Sakaguchi, and we discuss what possibly is his last game that can be played on a console.
+
+Games Discussed:
+- The Last Story -  
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+RFN Co-Host - Guillaume Veilette
+NWR Reviews Editor - Jordan Rudek
+
+Beer of the Night
+- Mons Quadruppel Abbey - 9.5%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage38.mp3" length="86420712" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+It all started with Hironobu Sakaguchi, and we discuss what possibly is his last game that can be played on a console.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:55:44</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,Sakaguchi, The Last Story</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode38.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>37</itunes:episode>
+<title>SaGa Does What Final Fantasy Don't - Romancing SaGa 3</title>
+<pubDate>Sun, 1 Dec 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage31.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The pub reviews the long time coming port of Romancing SaGa 3 on the Nintendo Switch and an expert joins in to discuss the other works of Akitoshi Kawazu.</itunes:subtitle>
+<description>The pub reviews the long time coming port of Romancing SaGa 3 on the Nintendo Switch and an expert joins in to discuss the other works of Akitoshi Kawazu.
+
+Games Discussed:
+- Romancing SaGa 3 - 
+- Various Games from Kawazu -  
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+RFN Co-Host - Guillaume Veilette
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+Kawazu Expert - Jonathon Finch
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage37.mp3" length="69041400" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub reviews the long time coming port of Romancing SaGa 3 on the Nintendo Switch and an expert joins in to discuss the other works of Akitoshi Kawazu.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:40:51</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy,SaGa, Kawazu</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/episode37.jpg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>36</itunes:episode>
+<title>Dr. Dazzle Presents: A Charcuterie of RPG Delights</title>
+<pubDate>Sun, 24 Nov 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage30.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The folks at the pub discuss many of the RPGs from the past couple months you may have missed.</itunes:subtitle>
+<description>The folks at the pub discuss many of the RPGs from the past couple months you may have missed.
+
+Games Discussed:
+- Ring Fit Adventure -
+- Little Town Hero - 
+- World of Warcraft - 
+- Alliance Alive - 
+- Children of Morta -  
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage36.mp3" length="54816756" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The folks at the pub discuss many of the RPGs from the past couple months you may have missed.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:19:11</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/25ab0986-4df2-4cc0-b100-94e5548e32c4.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>35</itunes:episode>
+<title>The Zombie Handheld That's Still Great, Even In Death - Final Fantasy Tactics</title>
+<pubDate>Sun, 17 Nov 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage29.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>Sony may have discontinued the Vita but life found a way to keep the handheld device relevant.</itunes:subtitle>
+<description>Sony may have discontinued the Vita but life found a way to keep the handheld device relevant.
+
+Games Discussed:
+- Final Fantasy Tactics - 
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Beer of the Night
+- Belgh Brasse Brewery Morbach - 4.5%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage35.mp3" length="94325235" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Sony may have discontinued the Vita but life found a way to keep the handheld device relevant.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:33:02</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,vita,final,fantasy</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage </itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/8d85730a-b3ef-45c3-bb38-8e7fc99a9313.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>34</itunes:episode>
+<title>Are There Still Some 8-Bit RPGs Worth Playing?</title>
+<pubDate>Sun, 10 Nov 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage28.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>We put our favorite 8-Bit RPGs up to modern scrutiny to determine if they are still fun today.</itunes:subtitle>
+<description>We put our favorite 8-Bit RPGs up to modern scrutiny to determine if they are still fun today.
+
+Games Discussed:
+- Final Fantasy Legend II -
+- Zelda 2: The Adventure of Link -
+- Pokemon Yellow - 
+- Final Fantasy - 
+
+Link to Shumplations Interview:
+http://shmuplations.com/kazukoshibuya/
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+RFN Co-Host - Guillaume Veillette
+
+Beer of the Night
+- Pit Caribou Blanche de Pratto - 4.75%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage34.mp3" length="88393368" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+We put our favorite 8-Bit RPGs up to modern scrutiny to determine if they are still fun today.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:31:06</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,james,jones,final,fantasy</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/5c871800-52fa-4da2-b539-9a1ef50bf84a.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>33</itunes:episode>
+<title>Don't Mess With The Butcher of Blaviken - The Witcher 3</title>
+<pubDate>Sun, 03 Nov 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage27.mp3</guid> 
+<link> https://thethirstymage.com/past-episodes/ </link>     
+<itunes:subtitle>The pub discusses how The Witcher 3 runs on Switch and whether diplomacy is really the best policy.</itunes:subtitle>
+<description>The pub discusses how The Witcher 3 runs on Switch and whether diplomacy is really the best policy.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Site Director - John Rairdin
+
+Beer of the Night
+- Les Trois Mousquetaires Porter Baltique - 10%
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage33.mp3" length="74439504" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The pub discusses how The Witcher 3 runs on Switch and whether diplomacy is really the best policy.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:17:46</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,james,jones,Witcher,Geralt</itunes:keywords>
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">David Lloyd</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/5475aeca-1354-4f5e-b69f-9b40cde967aa.jpeg" />
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+
+<item>
+<itunes:episode>32</itunes:episode>
+<title>C Is For Computer, And That's Good Enough For Me</title>
+<pubDate>Sun, 27 Oct 2019 08:00:00 -0700</pubDate>
+ <guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage26.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> October marks the release of a bunch of old CRPGs ported onto Switch, and the panel shares their opinion on whether they are worth playing. After that, they discuss some of their favourite CRPGs and debate on whether we'll ever see Final Fantasy XVI. </itunes:subtitle>
+<description>
+October marks the release of a bunch of old CRPGs ported onto Switch, and the panel shares their opinion on whether they are worth playing. After that, they discuss some of their favourite CRPGs and debate on whether we'll ever see Final Fantasy XVI.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage32.mp3" length="82428866" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+October marks the release of a bunch of old CRPGs ported onto Switch, and the panel shares their opinion on whether they are worth playing. After that, they discuss some of their favourite CRPGs and debate on whether we'll ever see Final Fantasy XVI.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:22:57</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, CRPG </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/9375920a-62b4-43cd-af40-c7ef04dfb01b.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>31</itunes:episode>
+<title>Unapologetic Devotion to Tradition - Dragon Quest XI</title>
+<pubDate>Thu, 17 Oct 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage25.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> On the episode, we have a spoiler-free discussion about Dragon Quest XI on Switch and on the franchise at large. </itunes:subtitle>
+<description>
+On the episode, we have a spoiler-free discussion about Dragon Quest XI on Switch and on the franchise at large.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage31.mp3" length="77347663" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+On the episode, we have a spoiler-free discussion about Dragon Quest XI on Switch and on the franchise at large.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:17:03</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Dragon Quest </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/9615f065-feb7-4aa5-968d-336bf2b1f9f2.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>30</itunes:episode>
+<title>No Man's Sky</title>
+<pubDate>Sun, 22 Sep 2019 08:00:00 -0700</pubDate>
+ <guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage24.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> The Thirsty Mage is again discussing a game that cannot be played on a Nintendo platform. We discuss the history of No Man's Sky and what the game looks like today. </itunes:subtitle>
+<description>
+Don't tell NWR management that The Thirsty Mage is again discussing a game that cannot be played on a Nintendo platform. We discuss the history of No Man's Sky and what the game looks like today.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+NWR Site Director: John Rairdin
+NWR Reviews Editor - Jordan Rudek
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage30.mp3" length="100485389" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage is again discussing a game that cannot be played on a Nintendo platform. We discuss the history of No Man's Sky and what the game looks like today.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:43:16</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, Bethesda, Skyrim, No Man's Sky </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/46843805-a1d9-44f4-b1a7-347b677cd533.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>29</itunes:episode>
+<title>Fire Emblem: Three Houses - Spoilercast</title>
+ <pubDate>Fri, 06 Sep 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage23.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> It's been over a month since the release of Fire Emblem: Three Houses and it's been the topic of discussion at The Thirsty Mage ever since. </itunes:subtitle>
+<description>
+It's been over a month since the release of Fire Emblem: Three Houses and it's been the topic of discussion at The Thirsty Mage ever since.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+NWR Contributing Editor - Matt Zawodniak
+NWR Reviews Editor - Jordan Rudek 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage29.mp3" length="170201752" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+It's been over a month since the release of Fire Emblem: Three Houses and it's been the topic of discussion at The Thirsty Mage ever since.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">02:55:19</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, Bethesda, Skyrim, Fire Emblem </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/67ffd08d-e09e-4696-bfcd-8e544682c354.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>28</itunes:episode>
+<title>The Summer of RPGs</title>
+<pubDate>Tue, 20 Aug 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage22.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> For most of 2019, RPGs have been plentiful and this Summer has been no exception. </itunes:subtitle>
+<description>
+For most of 2019, RPGs have been plentiful and this Summer has been no exception. 
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+NWR News Editor - Donald Theriault
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage28.mp3" length="57335808" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+For most of the year, RPGs have been plentiful and this Summer has been no exception. 
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:56:27</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, Bethesda, Skyrim </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/806078a2-9a70-48b7-96f1-fa5da92c7081.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>27</itunes:episode>
+<title>Final Fantasy XII: The Zodiac Age</title>
+<pubDate>Tue, 23 Jul 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage21.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> Apparently we are not done talking about Final Fantasy games yet. On this episode the pub has a discussion about the Final Fantasy XII port to Switch. </itunes:subtitle>
+<description>
+Apparently we are not done talking about Final Fantasy games yet. On this episode the pub has a discussion about the Final Fantasy XII port to Switch.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage27.mp3" length="106741175" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Apparently we are not done talking about Final Fantasy games yet. On this episode the pub has a discussion about the Final Fantasy XII port to Switch.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:46:23</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, Bethesda, Skyrim </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/6f45c17a-edca-4581-94fc-a4fa78cefb3d.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>26</itunes:episode>
+<title>The Elder Scrolls V: Skyrim</title>
+<pubDate>Tue, 2 Jul 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage20.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> Not sure there has been a better location to drink some beer on a hot summer evening than the beautifully expansive world of Skyrim. </itunes:subtitle>
+<description>
+Not sure there has been a better location to drink some beer on a hot summer evening than the beautifully expansive world of Skyrim.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+NWR Site Director: John Rairdin
+NWR Reviews Editor - Jordan Rudek
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage26.mp3" length="108534677" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Not sure there has been a better location to drink some beer on a hot summer evening than the beautifully expansive world of Skyrim.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:51:22</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, Bethesda, Skyrim </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/8afdc05a-2778-470d-b326-f627b0b999d9.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>25</itunes:episode>
+<title>The E3 Round-Up</title>
+<pubDate>Fri, 14 Jun 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage19.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> The folks at the pub discuss all of the RPGs announced at this years E3. </itunes:subtitle>
+<description>
+The folks at the pub discuss all of the RPGs announced at this years E3. 
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage25.mp3" length="88648795" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The folks at the pub discuss all of the RPGs announced at this years E3. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:54:20</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, E3 </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/1aaa564d-2f83-4fcb-86bc-c5ac06529824.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>24</itunes:episode>
+<title>E3 - SquareEnix Reaction</title>
+<pubDate>Tue, 11 Jun 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage18.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> The SquareEnix press conference was so insane and full of RPG goodness we couldn't wait until Thursday to record. </itunes:subtitle>
+<description>
+The SquareEnix press conference was so insane and full of RPG goodness we couldn't wait until Thursday to record.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage24.mp3" length="24556894" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The SquareEnix press conference was so insane and full of RPG goodness we couldn't wait until Thursday to record.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:30:42</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks, E3 </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/16a8b00f-77dc-4e15-ada1-682f5d90e0f8.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>23</itunes:episode>
+<title>Another Jeopardy Episode</title>
+<pubDate>Mon, 03 Jun 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage17.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> This week at the Mage we go back to some pub games with a good old-fashioned Jeopardy competition. </itunes:subtitle>
+<description>
+This week at the Mage we go back to some pub games with a good old-fashioned Jeopardy competition.
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek 
+NWR News Editor - Donald Theriault
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage23.mp3" length="55066624" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+This week at the Mage we go back to some pub games with a good old-fashioned Jeopardy competition.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:55:59</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/ac2fef99-8ebe-43ba-af3e-112ee7a54783.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>22</itunes:episode>
+<title>More Switch Indie RPGs</title>
+<pubDate>Mon, 20 May 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage16.mp3</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> This week at the pub a simple discussion about RPGs quickly turned into a game of Marry, One Night Stand (SFW), Kill. </itunes:subtitle>
+<description>
+This week at the pub a simple discussion about RPGs quickly turned into a game of Marry, One Night Stand (SFW), Kill.
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage22.mp3" length="56184654" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+This week at the pub a simple discussion about RPGs quickly turned into a game of Marry, One Night Stand (SFW), Kill.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:13:38</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/68e00d42-6811-474c-aab3-552d3d18486e.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>21</itunes:episode>
+<title>Final Fantasy VII on Switch</title>
+<pubDate>Mon, 6 May 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage15.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> The discussion at The Thirsty Mage this week is all about the debut of Final Fantasy VII on a Nintendo platform. </itunes:subtitle>
+<description>
+The discussion at The Thirsty Mage this week is all about the debut of Final Fantasy VII on a Nintendo platform. 
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+TNP Co-Host - Casey Gibson
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.m4a/mynewsite502235507.files.wordpress.com/2020/07/thirstymage21.m4a" length="72582193" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The discussion at The Thirsty Mage this week is all about the debut of Final Fantasy VII on a Nintendo platform. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:37:22</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/a663067c-c369-4101-9781-6f585002b0bd.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>20</itunes:episode>
+<title>Our Favourite RPG Music</title>
+<pubDate>Tue, 23 Apr 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage14.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> The Thirsty Mage has its first ever concert in the pub as we share our favourite songs and we try to cram in the 100 or so vocalists needed to play most of Mitsuda's songs.  </itunes:subtitle>
+<description>
+The Thirsty Mage has its first ever concert in the pub as we share our favourite songs and we try to cram in the 100 or so vocalists needed to play most of Mitsuda's songs. 
+ 
+On the panel:
+Thirsty Mage Host - David Lloyd
+Talk Nintendo Podcast Host - Casey Gibson
+Radio Free Nintendo Host - James Jones
+NWR Reviews Editor - Jordan Rudek
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.m4a/mynewsite502235507.files.wordpress.com/2020/07/thirstymage20.m4a" length="69769158" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage has its first ever concert in the pub as we share our favourite songs and we try to cram in the 100 or so vocalists needed to play most of Mitsuda's songs. </itunes:summary>
+ <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:33:36</itunes:duration>
+ <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Music, Soundtracks </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/b1d9aaf4-e2e6-4241-82e9-0fe1802a35cd.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>19</itunes:episode>
+<title>Xenogears</title>
+<pubDate>Fri, 22 Mar 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage13.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> The Thirsty Mage starts off its second year the same way we launched the pod, with a deep look into a Tetsuya Takahashi game. </itunes:subtitle>
+<description>
+The Thirsty Mage starts off its second year the same way we launched the pod, with a deep look into a Tetsuya Takahashi game. 
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.m4a/mynewsite502235507.files.wordpress.com/2020/07/thirstymage19.m4a" length="73050366" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+The Thirsty Mage starts off its second year the same way we launched the pod, with a deep look into a Tetsuya Takahashi game. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:38:00</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy, Xenogears </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/b68272dd-5ac2-4bbd-982b-db7f6db74993.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>18</itunes:episode>
+<title>Final Fantasy IX on Switch</title>
+<pubDate>Tue, 05 Mar 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage12.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> It's time for the Final Fantasy era on Switch, beginning with the final game of the PlayStation trilogy. </itunes:subtitle>
+<description>
+It's time for the Final Fantasy era on Switch, beginning with the final game of the PlayStation trilogy. 
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+NWR Reviews Editor - Jordan Rudek
+NWR Owner - Neal Ronaghan
+TNP Co-Host - Casey Gibson
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.m4a/mynewsite502235507.files.wordpress.com/2020/07/thirstymage18.m4a" length="70022216" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+It's time for the Final Fantasy era on Switch, beginning with the final game of the PlayStation trilogy. 
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:33:56</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario, Final Fantasy </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/3f18efcb-bd85-412c-b4e5-a0118f080fde.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>17</itunes:episode>
+<title>The Dark Souls of Jeopardy Episodes</title>
+<pubDate>Wed, 20 Feb 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage11.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle> We tried really hard to make an RPG themed episode of Jeopardy but things went south after David volunteered to create the questions. </itunes:subtitle>
+<description>
+We tried really hard to make an RPG themed episode of Jeopardy but things went south after David volunteered to create the questions. 
+
+At the pub:
+Thirsty Mage Host - David Lloyd
+TNP Co-Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek 
+NWR News Editor - Donald Theriault
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/KVnRaa 
+Email: David@TheThirstyMage 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/07/thirstymage17.mp3" length="43517461" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+We tried really hard to make an RPG themed episode of Jeopardy but things went south after David volunteered to create the questions. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:58:23</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/07/d6cf08e0-dcd0-4269-b2fd-8f3aea9f37ce.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>16</itunes:episode>
+<title>Super Mario RPG: Legend of the Seven Stars</title>
+<pubDate>Sat, 2 Feb 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage10.m4a</guid>
+<itunes:subtitle> We are back to another long and exciting breakdown of one of our all-time favourite RPGs. </itunes:subtitle>
+<description>
+We are back to another long and exciting breakdown of one of our all-time favourite RPGs.
+
+At the table:
+
+Thirsty Mage Host - David Lloyd 
+NWR Reviews Editor - Jordan Rudek
+NWR Contributing Editor - Xander Morningstar 
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com </description>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage16.mp3" length="92851043" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+We are back to another long and exciting breakdown of one of our all-time favourite RPGs.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">02:04:34</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Mario </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage16-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>15</itunes:episode>
+<title> Under The Radar RPGs On Nintendo Switch </title>
+ <pubDate>Thu, 17 Jan 2019 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage9.m4a</guid>
+<itunes:subtitle> On this week's podcast we discuss a couple of new Switch games as well as some old DLC. </itunes:subtitle>
+<description>
+On this week's podcast we discuss a couple of new Switch games as well as some old DLC. 
+
+At the table:
+
+Thirsty Mage Host - David Lloyd 
+NWR Reviews Editor - Jordan Rudek
+NWR News Editor - Donald Theriault
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage15.mp3" length="129029056" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+On this week's podcast we discuss a couple of new Switch games as well as some old DLC. 
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:27:15</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Pokemon </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage15-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>14</itunes:episode>
+<title>RPGs - A Look Back and Then Ahead</title>
+<pubDate>Fri, 21 Dec 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage8.m4a</guid>
+<itunes:subtitle> It's the end of the year and feels like a great time to reflect on what we've seen in the past 20 months on Switch. After that we discuss what we can expect to see on Switch going forward.
+</itunes:subtitle>
+<description>
+It's the end of the year and feels like a great time to reflect on what we've seen in the past 20 months on Switch. After that we discuss what we can expect to see on Switch going forward.
+
+At the table:
+
+Thirsty Mage Host - David Lloyd 
+NWR Reviews Editor - Jordan Rudek
+Radio Free Nintendo Host - James Jones
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage14.mp3" length="220910537" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+It's the end of the year and feels like a great time to reflect on what we've seen in the past 20 months on Switch. After that we discuss what we can expect going forward.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">02:29:26</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Pokemon </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage14-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>13</itunes:episode>
+<title>Pokemon Let's Go Pikachu and Eevee</title>
+<pubDate>Thu, 22 Nov 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage7.m4a</guid>
+<itunes:subtitle> Faithful modernization of an old classic or awkward fusion of classic Pokemon with Go that misses the mark for both fan base?
+</itunes:subtitle>
+<description>
+Faithful modernization of an old classic or awkward fusion of classic Pokemon with Go that misses the mark for both fan base?
+
+At the table:
+
+Thirsty Mage Host - David Lloyd 
+NWR Reviews Editor - Jordan Rudek
+NWR Contributing Editor - Adam Abou-Nasr
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage13.mp3" length="76857577" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Faithful modernization of an old classic or awkward fusion of classic Pokemon with Go that misses the mark for both fan base?
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:44:38</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Pokemon </itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage13-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>12</itunes:episode>
+<title>Thirsty Mage Reviews - Diablo 3: Eternal Collection</title>
+<pubDate>Tue, 30 Oct 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage6.m4a</guid>
+<itunes:subtitle>Diablo 3 comes out on November 2nd and Thirsty Mage crowd got a chance to all review it at the same time. We played many hours and we share our thoughts on this fantastic port. </itunes:subtitle>
+<description>
+Diablo 3 comes out on November 2nd and Thirsty Mage crowd got a chance to all review it at the same time. We played many hours and we share our thoughts on this fantastic port.
+
+At the table:
+
+Thirsty Mage Host - David Lloyd 
+NWR Reviews Editor - Jordan Rudek
+Talk Nintendo Host - Casey Gibson
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage12.mp3" length="49716517" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+Diablo 3 comes out on November 2nd and Thirsty Mage crowd got a chance to all review it at the same time. We played many hours and we share our thoughts on this fantastic port.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:07:40</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Pokemon</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage12-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>11</itunes:episode>
+<title> A Draft Flight Of A Number Of RPGs </title>
+<pubDate>Thu, 18 Oct 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage5.m4a</guid>
+<itunes:subtitle> We take a look back at some great RPGs from September 2018. </itunes:subtitle>
+<description>
+We take a look back at some great RPGs from September 2018.
+
+On the Panel:
+Thirsty Mage Host - David Lloyd
+Talk Nintendo Podcast Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage11.mp3" length="44823662" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">We take a look back at some great RPGs from September 2018. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:00:27</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Square, Enix, Final Fantasy</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage11-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>10</itunes:episode>
+<title>The Final Fantasy Franchise</title>
+<pubDate>Thu, 4 Oct 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage4.m4a</guid>
+<itunes:subtitle> It's the premiere of season 2, and we are starting off with a huge episode on the Final Fantasy franchise. </itunes:subtitle>
+<description> It's the premiere of season 2, and we are starting off with a huge episode on the Final Fantasy franchise. 
+
+On the Panel:
+Thirsty Mage Host - David Lloyd
+Talk Nintendo Podcast Host - Casey Gibson
+NWR Reviews Editor - Jordan Rudek
+Radio Free Nintendo Alumni Host - Dr. Jonathan Metts 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<link>https://thethirstymage.com/past-episodes/</link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage10.mp3" length="191642338" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">It's the premiere of season 2, and we are starting off with a huge episode on the Final Fantasy franchise. 
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">04:18:19</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Square, Enix, Final Fantasy</itunes:keywords> 
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage10-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>9</itunes:episode>
+<title>Thirsty Mage Reviews - Ys VIII: Lacrimosa of DANA and The Lost Child</title>
+<pubDate>Mon, 2 Jul 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage3.m4a</guid>
+<itunes:subtitle> For our second review episode, David Lloyd and Casey Gibson review two NIS America titles: Ys VIII: Lacrimosa of DANA and The Lost Child. </itunes:subtitle>
+<description>For our second review episode, David Lloyd and Casey Gibson review two NIS America titles: Ys VIII: Lacrimosa of DANA and The Lost Child.
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link>https://thethirstymage.com/past-episodes/</link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage09.mp3" length="45749672" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+For our second review episode, David Lloyd and Casey Gibson review two NIS America titles: Ys VIII: Lacrimosa of DANA and The Lost Child.
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:01:46</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History, Ys, the Lost Child</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage09-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>8</itunes:episode>
+<title> A Taster’s Sample Of A Heap Of RPGs In June Of 2018 </title>
+<pubDate>Wed, 6 Jun 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage2.m4a</guid>
+<itunes:summary> On this week's show, we have guests Casey Gibson and Neal Ronaghan on to discuss the many RPGs we've been reviewing for Nintendo World Report. </itunes:summary>
+<description> On this week's show, we have guests Casey Gibson and Neal Ronaghan on to discuss the many RPGs we've been reviewing for Nintendo World Report. 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link>https://thethirstymage.com/past-episodes/</link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage08.mp3" length="66482353" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+On this week's show, we have guests Casey Gibson and Neal Ronaghan on to discuss the many RPGs we've been reviewing for Nintendo World Report. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:30:30</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, History</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage08-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>7</itunes:episode>
+<title>Know A Developer - Snowcastle Games </title>
+<pubDate>Wed, 09 May 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/thirstymage1.m4a</guid>
+<itunes:subtitle> On this week's Know Your Developer, I sit down with the CEO and Game Director of Earthlock, Bendik Stang. </itunes:subtitle>
+<description>An interview with the Game Director of Earthlock
+
+On this week's Know Your Developer, I sit down with the CEO and Game Director of Earthlock, Bendik Stang. 
+
+Ben and his team over at Snowcastle Games released Earthlock for the Nintendo Switch a little over a month ago and he joins me in a conversation about what it was like to make an RPG and some behind the scenes details about game development. 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<link>https://thethirstymage.com/past-episodes/</link>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage07.mp3" length="36719736" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> On this week's Know Your Developer, I sit down with the CEO and Game Director of Earthlock, Bendik Stang. </itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:49:58</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, Snowcastle, Earthlock, History</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage07-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>6</itunes:episode>
+<title> When the All-Star Team Makes an RPG: Chrono Trigger </title>
+<pubDate>Fri, 27 Apr 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/4ChronoTrigger.m4a</guid>
+<link>https://thethirstymage.com/past-episodes/</link>
+<itunes:subtitle> This week the classics gang takes on one of the greatest RPGs ever made: Chrono Trigger. </itunes:subtitle>
+<description> This week the classics gang takes on one of the greatest RPGs ever made: Chrono Trigger.
+
+At the table:
+
+Thirsty Mage Host - David Lloyd 
+Talk Nintendo Host - Casey Gibson
+NWR Owner - Neal Ronaghan
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com 
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage06.mp3" length="78696468" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> This week the classics gang takes on one of the greatest RPGs ever made: Chrono Trigger.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:48:50</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, Square, Chrono Trigger, History</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage06-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>5</itunes:episode>
+<title>Know A Franchise - The Elder Scrolls</title>
+<pubDate>Mon, 2 Apr 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/ElderScrollsPod.m4a</guid>
+<link>https://thethirstymage.com/past-episodes/</link>
+<itunes:subtitle> A brief history of the Elder Scrolls franchise, beginning from Arena and up to Oblivion. </itunes:subtitle>
+<description>A brief history of the Elder Scrolls franchise, beginning from Arena and up to Oblivion.
+
+On the Panel:
+Thirsty Mage Host - David Lloyd
+
+Beer of the Night 
+- 3 Monts Cuivrée - 7.5% -
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage05-1.mp3" length="16043463" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">This week TTM Host David Lloyd attempts an episode on his own.  
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:21:29</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">RPG, rpg, nintendo, videogames, video games, Nintendo World Report, Nintendo, PlayStation, PS4, XBOX, Switch, Bethesda, Elder Scrolls, History</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage05-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>4</itunes:episode>
+<title>Best Reason To Buy A PlayStation 4 - Persona 5</title>
+<pubDate>Mon, 26 Mar 2018 19:45:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/Persona5.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/</link>
+<itunes:subtitle> Armed with Syrenne's 450 page book on the development of Persona 5, we get into the weeds of the Persona series. </itunes:subtitle>
+<description>Armed with Syrenne's 450 page book on the development of Persona 5, we get into the weeds of the Persona series. 
+
+On the Panel:
+Thirsty Mage Host - David Lloyd
+Game Producer - Syrenne McNulty 
+Radio Free Nintendo Host - James Jones
+
+Beer of the Night 
+- Grimbergen Double Ambrée - 6.5% - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC  
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage04.mp3" length="144404763" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Armed with Syrenne's 450 page book on the development of Persona 5, we get into the weeds of the Persona series. 
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">03:19:48</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,Atlus,persona,5</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/4bb814b7-c7ed-4e70-88ef-63c1e053f128.jpeg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>3</itunes:episode>
+<title>Thirsty Mage Reviews - The Alliance Alive</title>
+<pubDate>Mon, 26 Mar 2018 07:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/ThirstyMage/AllianceAliveReview.m4a</guid>
+<link>https://thethirstymage.com/past-episodes/</link>      
+<itunes:subtitle>The first of a series of spoiler-free reviews of new RPGs as they are released.</itunes:subtitle>
+<description>The first of a series of spoiler-free reviews of new RPGs as they are released.
+
+On the Panel:
+Thirsty Mage Host - David Lloyd
+Talk Nintendo Podcast Host - Casey Gibson
+NWR Owner and Editor - Neal Ronaghan
+Radio Free Nintendo - Guillaume Veillette
+
+Beer of the Night 
+- Grimbergen Double Ambrée - 6.5% - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage03.mp3" length="40584503" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The first of a series of spoiler-free reviews of new RPGs as they are released.</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">00:55:27</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,Alliance,Alive</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage03-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+</item>
+
+<item>
+<itunes:episode>2</itunes:episode>
+<title>3DS Ain't Dead Yet - Radiant Historia:Perfect Chronology</title>
+<pubDate>Thu, 15 Mar 2018 09:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/nwrconnectivity242.m4a</guid>
+<link> https://thethirstymage.com/past-episodes/ </link>
+<itunes:subtitle>Friends meet up again at The Thirsty Mage to talk Radiant Historia: Perfect Chronology</itunes:subtitle>
+<description>Friends meet up again at The Thirsty Mage to talk Radiant Historia: Perfect Chronology
+
+On the Panel:
+Thirsty Mage Host - David Lloyd
+Talk Nintendo Podcast Host - Casey Gibson
+NWR Owner and Editor - Neal Ronaghan
+
+Beer of the Night 
+- Gainsbourg Scotch Ale - 10.5% - 
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage02.mp3" length="79338878" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Friends meet up again at The Thirsty Mage to talk Radiant Historia: Perfect Chronology
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">01:49:07</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,james,jones,steam,Radiant,Historia</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage02-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<itunes:episode>1</itunes:episode>
+<title>Probably The Best RPG On The Nintendo Switch - Xenoblade Chronicles 2</title>
+<pubDate>Thu, 15 Mar 2018 08:00:00 -0700</pubDate>
+<guid isPermaLink="false">&quot;http://www.nintendoworldreport.com/podcast/nwrconnectivity241.m4a</guid> 
+<link>https://thethirstymage.com/past-episodes/</link>     
+<itunes:subtitle>A spoiler-laden discussion about the best RPG on Switch: Xenoblade Chronicles 2</itunes:subtitle>
+<description>A spoiler-laden discussion about the best RPG on Switch: Xenoblade Chronicles 2
+
+On the panel:
+Thirsty Mage Host - David Lloyd
+Talk Nintendo Podcast Host - Casey Gibson
+Radio Free Nintendo Host - James Jones
+Voice of reason at RFN - Greg Leahy
+
+Twitter: @TheThirstyMage
+Discord: discord.gg/kwR9kxC 
+Email: David@TheThirstyMage.com
+</description>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/mynewsite502235507.files.wordpress.com/2020/06/thirstymage01.mp3" length="134437602" type="audio/mpeg"/>
+<itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+<itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+A spoiler-laden discussion about the best RPG on Switch: Xenoblade Chronicles 2
+</itunes:summary>
+<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">03:05:46</itunes:duration>
+<itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">rpg,nintendo,video,games,PlayStation,switch,xenoblade,thirsty,mage,david,lloyd,james,jones,steam</itunes:keywords>
+<itunes:image href="https://mynewsite502235507.files.wordpress.com/2020/06/thirstymage01-mp3-image.jpg" />
+<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Thirsty Mage</itunes:author>
+<itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">yes</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>	
+  </channel>
+</rss>
